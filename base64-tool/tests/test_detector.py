@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©shazi | 2026
 test_detector.py
 
 Tests for format detection accuracy and edge cases in detector.py
