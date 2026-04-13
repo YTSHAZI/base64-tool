@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 peeler.py
 
 Recursive multi-layer encoding detection and decoding
