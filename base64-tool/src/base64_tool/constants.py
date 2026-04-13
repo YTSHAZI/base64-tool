@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 constants.py
 
 Encoding format definitions, scoring weights, and shared constants
