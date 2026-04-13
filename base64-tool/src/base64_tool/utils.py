@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 utils.py
 
 Input resolution and string/bytes utility functions
