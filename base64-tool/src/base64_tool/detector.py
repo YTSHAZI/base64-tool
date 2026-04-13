@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 detector.py
 
 Format detection via per-format confidence scoring
