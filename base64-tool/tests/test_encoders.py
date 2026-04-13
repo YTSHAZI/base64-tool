@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 test_encoders.py
 
 Unit tests for all encoder and decoder functions in encoders.py
