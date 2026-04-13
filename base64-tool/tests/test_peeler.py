@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©shazi | 2026
 test_peeler.py
 
 Tests for single-layer and multi-layer decoding in peeler.py
