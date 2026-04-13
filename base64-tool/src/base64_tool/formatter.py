@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 formatter.py
 
 Rich terminal output for all CLI commands
