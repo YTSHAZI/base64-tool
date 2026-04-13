@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 cli.py
 
 Typer CLI application with five encoding subcommands
