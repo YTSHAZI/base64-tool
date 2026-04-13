@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 test_properties.py
 
 Property-based roundtrip and structural invariant tests using Hypothesis
