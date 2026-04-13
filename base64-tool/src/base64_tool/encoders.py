@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 encoders.py
 
 Encode and decode functions for all five supported formats
