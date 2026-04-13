@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2026
+©Shazi | 2026
 test_cli.py
 
 Integration tests for all five CLI commands via Typer's CliRunner
